@@ -8,7 +8,6 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/PatibandaSriram) | [LinkedIn](https://www.linkedin.com/in/patibanda-sriram-237a0b193/) | [Email](mailto:patibandasriram2k02@gmail.com)
 - 😄 Pronouns: He/Him
 
----
 <h3 align = "center"> Technologies I have worked on: </p>
 <p align = "center">
   <img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
