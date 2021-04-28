@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am __Patibanda Sriram__
+### Hey there, I am Patibanda Sriram 👋
+---
 
 - 🔭 I’m a student at NIT Rourkela.
 - 🌱 I’m currently learning Node.js.
