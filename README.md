@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student at NIT Rourkela.
 - 🌱 I’m currently learning Node.js.
-- 💻 CoreTeam Member at [DSC NIT Rourkela](dscnitrourkela.org)
+- 💻 CoreTeam Member at [DSC NIT Rourkela](https://dscnitrourkela.org)
 - 💻 Technical Team Member at [Monday Morning](https://mondaymorning.nitrkl.ac.in)
 - 📫 How to reach me: [Twitter](https://twitter.com/PatibandaSriram) | [LinkedIn](https://www.linkedin.com/in/patibanda-sriram-237a0b193/) | [Email](mailto:patibandasriram2k02@gmail.com)
 - 😄 Pronouns: He/Him
