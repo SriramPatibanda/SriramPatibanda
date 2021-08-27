@@ -22,5 +22,5 @@
 <p>
 <img width = 32.5%, src="https://github-readme-stats.vercel.app/api?username=srirampatibanda&show_icons=true&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000">
 <img width = 32.5%, src="https://github-readme-streak-stats.herokuapp.com/?user=SriramPatibanda&theme=highcontrast">
-<img width = 32.5%, src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirampatibanda&exclude_repo=MM.SummerTask.2020&layout=compact&hide=swift&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_title=true">
+<img width = 32.5%, src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirampatibanda&exclude_repo=MM.SummerTask.2020&layout=compact&hide=swift&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_title=true&hide_border=true">
 </p>
